@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Data_Plattform_DE25_LisaYllander.iml" filepath="$PROJECT_DIR$/.idea/Data_Plattform_DE25_LisaYllander.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Data_Plattform_fastapi_pydantic.iml" filepath="$PROJECT_DIR$/.idea/Data_Plattform_fastapi_pydantic.iml" />
     </modules>
   </component>
 </project>
