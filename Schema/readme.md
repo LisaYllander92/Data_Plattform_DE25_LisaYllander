@@ -11,6 +11,10 @@
 ```bash
 $ pip install "fastapi[standard]"
 ```
+* With uv init:
+````bash
+uv add "fastapi[standard]"
+````
 * In virtual environment: 
 ```bash
 uv pip install fastapi
@@ -53,10 +57,10 @@ fastapi dev main.py
 Test in safari:
 localhost:8000 (server)
 
-![In terminal](/fastAPI_pydantic/in_terminal.png)
+![In terminal](/in_terminal.png)
 
 add /docs:\
-![LocalHost](/fastAPI_pydantic/localhost.png)
+![LocalHost](/localhost.png)
 
 ## URL
 
