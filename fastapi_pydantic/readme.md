@@ -57,10 +57,10 @@ fastapi dev main.py
 Test in safari:
 localhost:8000 (server)
 
-![In terminal](/in_terminal.png)
+![In terminal](/fastapi_pydantic/in_terminal.png)
 
 add /docs:\
-![LocalHost](/localhost.png)
+![LocalHost](/fastapi_pydantic/localhost.png)
 
 ## URL
 
