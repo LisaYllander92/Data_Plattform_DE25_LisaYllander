@@ -3,7 +3,7 @@ from psycopg_pool import ConnectionPool
 from psycopg.types.json import Json     # Convert Pydantic -> JSON
 from psycopg import Connection          # Open Temporary Connection
 
-from schema.product import ProductSchema
+from postgresql_fastapi.schema.product import ProductSchema
 
 DATABASE_URL = "postgresql://postgres:bettan123@localhost:5432/lektion_5" #postgresql://USERNAME:PASSWORD@ADRESS:PORT/DB_NAME
 pool = ConnectionPool(DATABASE_URL)
